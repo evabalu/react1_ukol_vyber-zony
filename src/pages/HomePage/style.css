@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4rem;
+}
+
+.logo {
+  width: 10rem;
+  height: 10rem;
+  background-image: url(./img/zemegula.png);
+  background-size: contain;
+}
+
+.time {
+  font-weight: bold;
+}
